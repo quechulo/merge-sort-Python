@@ -1,7 +1,6 @@
 """
     Implementation of merge sort algorithm
 """
-__author__ = "Michał Podolec"
 
 def merge_sort(lo, hi, tab, a): # function to divide array and initialise recursive execution
     if hi > lo:
